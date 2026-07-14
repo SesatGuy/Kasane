@@ -19,7 +19,10 @@ A simple open-source manga reader app created using Kodular because why not and 
 ## In-App Screenshot
 
 <div align="center">
-<img src="images/ig1.jpeg" alt="Mobile view" width="250"/>
+<img src="images/ig1.jpeg" alt="Home" width="250"/>
+<img src="images/ig2.jpeg" alt="Explore" width="250"/>
+<img src="images/ig3.jpeg" alt="History" width="250"/>
+<img src="images/ig4.jpeg" alt="Manga Info" width="250"/>
 </div>
 
 ## Limitation (Will be added in future)
