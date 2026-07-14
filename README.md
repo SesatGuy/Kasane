@@ -16,6 +16,12 @@ A simple open-source manga reader app created using Kodular because why not and 
 
 <div align="center">
 
+## In-App Screenshot
+
+<div align="center">
+<img src="images/ig1.jpeg" alt="Mobile view" width="250"/>
+</div>
+
 ## Limitation (Will be added in future)
 
 <div align="left">
@@ -24,6 +30,7 @@ A simple open-source manga reader app created using Kodular because why not and 
 - No Favourate feature
 - No offline reading
 - One sources only
+- Work on phone only cuz Kodular
 
 ## Contribution Note
 
