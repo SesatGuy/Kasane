@@ -31,9 +31,10 @@ A simple open-source manga reader app created using Kodular because why not and 
 Could be add/fix in future
 
 - Home page may be slow
+- History won't be up to date when new chapter out
 - No Favourate feature
 - No offline reading
-- One sources only
+- One manga source only
 - Work on phone only cuz Kodular
 
 ## Contribution Note
