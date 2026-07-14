@@ -25,9 +25,10 @@ A simple open-source manga reader app created using Kodular because why not and 
 <img src="images/ig4.jpeg" alt="Manga Info" width="250"/>
 </div>
 
-## Limitation (Will be added in future)
+## Limitation
 
 <div align="left">
+Could be add/fix in future
 
 - Home page may be slow
 - No Favourate feature
