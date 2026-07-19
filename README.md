@@ -13,6 +13,9 @@ A simple open-source manga reader app created using Kodular because why not and 
 - [MangaDex](https://mangadex.org/) manga reader for Android 7+
 - History tracking
 - Support both English and Japanese reading
+- Basic Manga Information
+- Toggle Tags filter
+- Datasaver mode available
 
 <div align="center">
 
