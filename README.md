@@ -33,7 +33,6 @@ Could be add/fix in future
 - No Favourate feature
 - No offline reading
 - One manga source only
-- Support English Manga only
 - Work on phone only cuz Kodular
 - It so basic
 
