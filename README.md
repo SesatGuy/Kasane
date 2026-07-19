@@ -19,8 +19,7 @@ A simple open-source manga reader app created using Kodular because why not and 
 ## In-App Screenshot
 
 <div align="center">
-<img src="images/ig1.jpeg" alt="Home" width="250"/>
-<img src="images/ig2.jpeg" alt="Explore" width="250"/>
+<img src="images/ig2.jpeg" alt="Home" width="250"/>
 <img src="images/ig3.jpeg" alt="History" width="250"/>
 <img src="images/ig4.jpeg" alt="Manga Info" width="250"/>
 </div>
@@ -30,13 +29,13 @@ A simple open-source manga reader app created using Kodular because why not and 
 <div align="left">
 Could be add/fix in future
 
-- Home page may be slow
 - History won't be up to date when new chapter out
 - No Favourate feature
 - No offline reading
 - One manga source only
 - Support English Manga only
 - Work on phone only cuz Kodular
+- It so basic
 
 ## Contribution Note
 
